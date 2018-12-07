@@ -1,16 +1,6 @@
 ---
 theme: jekyll-theme-minimal
 title: Aravinda Kanchana Ruwanpathirana
-logo: "/img/profile.jpg"
-social-network-links:
-  rss: true
-  github: "https://github.com/kanchanarp"
-  twitter: daattali
-# Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+avatar: "/img/profile.jpg"
 ---
 This is a test.
