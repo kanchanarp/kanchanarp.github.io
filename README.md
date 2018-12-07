@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/kanchanarp/kanchanarp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a first year PhD student at the School of Computing at University of Utah.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Work Experience
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Publications
 
 ```markdown
 Syntax highlighted code block
